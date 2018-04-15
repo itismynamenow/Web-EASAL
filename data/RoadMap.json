@@ -1,0 +1,11922 @@
+[
+	{
+	"Complete" : false,
+	"ConnectedNodes" : [],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		0,
+		0,
+		0
+	],
+	"NodeID" : 0,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},
+{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		0
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		0.10000000000000001,
+		0.12979044724711702,
+		10
+	],
+	"NodeID" : 1,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},
+{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		1
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		0.20000000000000001,
+		0.2385992497385476,
+		20
+	],
+	"NodeID" : 2,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},
+{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		2
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		0.30000000000000004,
+		1.2375237682077678,
+		30
+	],
+	"NodeID" : 3,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},
+{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		3
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		0.40000000000000002,
+		1.455780673984336,
+		40
+	],
+	"NodeID" : 4,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},
+{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		3
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		0.5,
+		1.9687130688543957,
+		40
+	],
+	"NodeID" : 5,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},
+{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		5
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		0.59999999999999998,
+		2.8078253040126642,
+		50
+	],
+	"NodeID" : 6,
+	"NonEmpty" : true,
+	"Parameters" : [],
+	"StepSize" : 0.40000000000000002
+},
+{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		2
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		0.69999999999999996,
+		3.4204651370739869,
+		30
+	],
+	"NodeID" : 7,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},
+{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		2
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		0.79999999999999993,
+		3.7164967552369914,
+		30
+	],
+	"NodeID" : 8,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},
+{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		8
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		0.89999999999999991,
+		4.3540490234056719,
+		40
+	],
+	"NodeID" : 9,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},
+{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		1
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		0.99995679999999987,
+		4.8781272195849947,
+		20
+	],
+	"NodeID" : 10,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		10
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		1.0999568,
+		5.3717102070413834,
+		30
+	],
+	"NodeID" : 11,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		11
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		1.1999568,
+		6.3444852313906139,
+		40
+	],
+	"NodeID" : 12,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		10
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		1.2999568000000001,
+		6.6370020162693022,
+		30
+	],
+	"NodeID" : 13,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		1
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		1.3951518106451275,
+		7.4899864936311236,
+		20
+	],
+	"NodeID" : 14,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		14
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		1.442134619564474,
+		7.7220853329569863,
+		30
+	],
+	"NodeID" : 15,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		1
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		1.6871836107147931,
+		8.0195114042959528,
+		20
+	],
+	"NodeID" : 16,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		0
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		1.7734841608379583,
+		3.1198737184315646,
+		10
+	],
+	"NodeID" : 17,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		17
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		1.8734841608379584,
+		4.0114031709024083,
+		20
+	],
+	"NodeID" : 18,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		18
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		1.9734841608379585,
+		4.2947179173732106,
+		30
+	],
+	"NodeID" : 19,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		18
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		2.0734841608379586,
+		4.6471762651037629,
+		30
+	],
+	"NodeID" : 20,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		20
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		2.1734841608379587,
+		5.4549007855783067,
+		40
+	],
+	"NodeID" : 21,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		20
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		2.2733798335982387,
+		6.3736654247713034,
+		40
+	],
+	"NodeID" : 22,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 3
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		18
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		2.5873383571204855,
+		7.3134799399588069,
+		30
+	],
+	"NodeID" : 23,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 3
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		23
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		2.6872141648793439,
+		8.262455968752036,
+		40
+	],
+	"NodeID" : 24,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		23
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		2.787214164879344,
+		8.7884513194397975,
+		40
+	],
+	"NodeID" : 25,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		23
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		2.8872141648793441,
+		8.8745071677617009,
+		40
+	],
+	"NodeID" : 26,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		18
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		38.472416510177034,
+		39.277477528474414,
+		30
+	],
+	"NodeID" : 27,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		18
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		23.980724450729994,
+		25.352217959637802,
+		30
+	],
+	"NodeID" : 28,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		18
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		19.884286340987231,
+		22.003566776663945,
+		30
+	],
+	"NodeID" : 29,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		29
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		19.984286340987232,
+		22.352459712378113,
+		40
+	],
+	"NodeID" : 30,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		29
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 3
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		20.084286340987234,
+		22.416631033632417,
+		40
+	],
+	"NodeID" : 31,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 3
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		17
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		20.183322295242867,
+		22.43557808467315,
+		20
+	],
+	"NodeID" : 32,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		32
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		20.283322295242868,
+		22.893279822413088,
+		30
+	],
+	"NodeID" : 33,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		33
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		20.382348695772698,
+		22.955276783773812,
+		40
+	],
+	"NodeID" : 34,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 3
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		34
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		20.4823486957727,
+		23.193556738415069,
+		50
+	],
+	"NodeID" : 35,
+	"NonEmpty" : true,
+	"Parameters" : [],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		32
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		18.998585580273232,
+		22.239990604198955,
+		30
+	],
+	"NodeID" : 36,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 3
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		17
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		13.045108444411625,
+		16.152294333072494,
+		20
+	],
+	"NodeID" : 37,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 3
+		},
+		{
+			"one" : 0,
+			"two" : 3
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		37
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		9.3306572944562358,
+		12.878783527750709,
+		30
+	],
+	"NodeID" : 38,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 3
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		38
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		9.4087608508426275,
+		13.083947560321413,
+		40
+	],
+	"NodeID" : 39,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		39
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		9.5087608508426271,
+		13.62370790150924,
+		50
+	],
+	"NodeID" : 40,
+	"NonEmpty" : true,
+	"Parameters" : [],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		38
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		9.6087608508426268,
+		13.99891487834728,
+		40
+	],
+	"NodeID" : 41,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		41
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		9.7087608508426264,
+		14.759163615179688,
+		50
+	],
+	"NodeID" : 42,
+	"NonEmpty" : true,
+	"Parameters" : [],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		38
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		9.8087608508426261,
+		15.271698979785423,
+		40
+	],
+	"NodeID" : 43,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 4,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		43
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		9.9087608508426257,
+		15.939422741036491,
+		50
+	],
+	"NodeID" : 44,
+	"NonEmpty" : true,
+	"Parameters" : [],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		37
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		10.049120809783885,
+		17.03898104968027,
+		30
+	],
+	"NodeID" : 45,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 0
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		37
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		9.4667164516136886,
+		15.261005645238363,
+		30
+	],
+	"NodeID" : 46,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		37
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		7.1286164782540702,
+		10.828942380206,
+		30
+	],
+	"NodeID" : 47,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 3
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		47
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		7.2286164782540698,
+		11.760777436922499,
+		40
+	],
+	"NodeID" : 48,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		47
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		7.3286164782540695,
+		12.691587232746755,
+		40
+	],
+	"NodeID" : 49,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 3
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		47
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		7.4286164782540691,
+		13.412539576278151,
+		40
+	],
+	"NodeID" : 50,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		47
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		7.5286164782540688,
+		13.69683297979388,
+		40
+	],
+	"NodeID" : 51,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		17
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		7.3363566241094178,
+		14.318648364321369,
+		20
+	],
+	"NodeID" : 52,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		52
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		8.2245524324785055,
+		11.630609706634308,
+		30
+	],
+	"NodeID" : 53,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		53
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		8.3245524324785052,
+		11.984658386847611,
+		40
+	],
+	"NodeID" : 54,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		53
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		8.4245524324785048,
+		12.672519777579776,
+		40
+	],
+	"NodeID" : 55,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 4,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		52
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		8.6188540891929026,
+		13.044827140417665,
+		30
+	],
+	"NodeID" : 56,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		56
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		8.7188540891929023,
+		13.48493166848721,
+		40
+	],
+	"NodeID" : 57,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		52
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		8.484938671749358,
+		13.571022479408654,
+		30
+	],
+	"NodeID" : 58,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		52
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		8.3926975801940973,
+		13.704324418137778,
+		30
+	],
+	"NodeID" : 59,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 4,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		17
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		7.1519659760761201,
+		13.398582883041769,
+		20
+	],
+	"NodeID" : 60,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		60
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		7.2378171623638199,
+		9.8387767183485781,
+		30
+	],
+	"NodeID" : 61,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		61
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		7.3378171623638195,
+		10.732149133398218,
+		40
+	],
+	"NodeID" : 62,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 4,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		60
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		7.3487283124172667,
+		10.609836145808222,
+		30
+	],
+	"NodeID" : 63,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		17
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		7.1628264045139662,
+		10.582454717849185,
+		20
+	],
+	"NodeID" : 64,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 0
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		64
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		8.0888633196821456,
+		10.496094191933633,
+		30
+	],
+	"NodeID" : 65,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 4,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		17
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		9.2282722101162147,
+		11.67600602741857,
+		20
+	],
+	"NodeID" : 66,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		17
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		9.3278292530501279,
+		12.332749619125977,
+		20
+	],
+	"NodeID" : 67,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		67
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		9.4278292530501275,
+		13.191425945521305,
+		30
+	],
+	"NodeID" : 68,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		67
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		9.5278292530501272,
+		13.630985865485622,
+		30
+	],
+	"NodeID" : 69,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 4,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		67
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		9.6278292530501268,
+		14.554955654858365,
+		30
+	],
+	"NodeID" : 70,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		70
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		9.7278292530501265,
+		14.953392321975858,
+		40
+	],
+	"NodeID" : 71,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		70
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		9.8278292530501261,
+		15.768159218778216,
+		40
+	],
+	"NodeID" : 72,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 4,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		70
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		9.9278292530501258,
+		16.452377744517705,
+		40
+	],
+	"NodeID" : 73,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		67
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		9.9366268173139893,
+		17.588231549794937,
+		30
+	],
+	"NodeID" : 74,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 3
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		74
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		10.036626817313989,
+		18.07072220691704,
+		40
+	],
+	"NodeID" : 75,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		74
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		10.136626817313989,
+		18.286547166351529,
+		40
+	],
+	"NodeID" : 76,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		74
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 1,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		10.236626817313988,
+		19.236799540962508,
+		40
+	],
+	"NodeID" : 77,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		74
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		10.336626817313988,
+		20.156927795145204,
+		40
+	],
+	"NodeID" : 78,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		74
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		10.436626817313988,
+		20.304587810364868,
+		40
+	],
+	"NodeID" : 79,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		67
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		10.536626817313987,
+		21.185649980334446,
+		30
+	],
+	"NodeID" : 80,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 0
+		},
+		{
+			"one" : 3,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		0
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		8.0666807875561553,
+		10.979933599836789,
+		10
+	],
+	"NodeID" : 81,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		81
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		8.1666807875561549,
+		11.411887018572182,
+		20
+	],
+	"NodeID" : 82,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		82
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		8.2666807875561545,
+		12.031483502977913,
+		30
+	],
+	"NodeID" : 83,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		81
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		8.3666807875561542,
+		12.312542915860138,
+		20
+	],
+	"NodeID" : 84,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		0
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		8.4666807875561538,
+		13.098545014343173,
+		10
+	],
+	"NodeID" : 85,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		1,
+		17,
+		81,
+		85
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		15.465790058605025,
+		9.0417412612756376,
+		22.254105135230674
+	],
+	"NodeID" : 0,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		0,
+		2,
+		10,
+		14,
+		16
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		-6.4670955893111106,
+		-10.259055229037767,
+		30.859582395876469
+	],
+	"NodeID" : 1,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		1,
+		3,
+		7,
+		8,
+		17
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		23.838689510795628,
+		20.335493682520543,
+		37.864704719024964
+	],
+	"NodeID" : 2,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		2,
+		4,
+		5,
+		16,
+		18
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		-7.5274813367021665,
+		-10.380528170973559,
+		44.738641242050285
+	],
+	"NodeID" : 3,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		3,
+		8,
+		15,
+		20
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		22.783761671319766,
+		19.561391196762372,
+		47.66180767800914
+	],
+	"NodeID" : 4,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		3,
+		6
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		8.975533579793197,
+		5.8808781263777892,
+		57.402714807643171
+	],
+	"NodeID" : 5,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		5
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		5.6941211723277689,
+		2.8906830144580233,
+		67.022642853642736
+	],
+	"NodeID" : 6,
+	"NonEmpty" : true,
+	"Parameters" : [],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		2,
+		52
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		6.4318138155389022,
+		0.10507460952730874,
+		42.100161169814314
+	],
+	"NodeID" : 7,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		2,
+		9,
+		4,
+		14,
+		32
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		-4.9773049666875515,
+		-9.4455734319191755,
+		43.436290473552248
+	],
+	"NodeID" : 8,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		8
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		13.333996730987552,
+		7.718671629134092,
+		51.792170734316159
+	],
+	"NodeID" : 9,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		1,
+		11,
+		13,
+		81
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		12.986983445993049,
+		9.2559097605438527,
+		35.407294139180514
+	],
+	"NodeID" : 10,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		10,
+		12,
+		16
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		2.8903804062125484,
+		-0.68964096916949735,
+		41.239360225313234
+	],
+	"NodeID" : 11,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		11,
+		13,
+		15
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		12.336811386232705,
+		8.9382619974180635,
+		46.552928482518475
+	],
+	"NodeID" : 12,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		10,
+		12,
+		14
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		4.1607065415539104,
+		0.22960629984743441,
+		40.766264617329512
+	],
+	"NodeID" : 13,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		1,
+		13,
+		8,
+		15
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		21.920748476537554,
+		18.296222738241486,
+		37.120753032367041
+	],
+	"NodeID" : 14,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		14,
+		12,
+		4,
+		16
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		-5.0724104195518294,
+		-8.5589792194551499,
+		42.801954887446939
+	],
+	"NodeID" : 15,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		1,
+		3,
+		11,
+		15
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		21.78279731175305,
+		18.352861993431372,
+		38.17734827269831
+	],
+	"NodeID" : 16,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		0,
+		18,
+		32,
+		37,
+		2,
+		52,
+		60,
+		64,
+		66,
+		67
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		-3.5592637830277951,
+		-12.462517216184015,
+		37.463335980489539
+	],
+	"NodeID" : 17,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		17,
+		3,
+		19,
+		20,
+		23,
+		27,
+		28,
+		29
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		22.199287936680538,
+		23.997561448399939,
+		42.943389123165232
+	],
+	"NodeID" : 18,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		18,
+		52,
+		82
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		5.6469043530938769,
+		2.3157565963686277,
+		43.891657357164313
+	],
+	"NodeID" : 19,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		18,
+		4,
+		21,
+		22,
+		32
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		-7.1710844615248028,
+		-9.9181467221734572,
+		46.951179723787035
+	],
+	"NodeID" : 20,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		20,
+		33,
+		83
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		13.805608029405132,
+		9.6431250791495344,
+		51.48346668023099
+	],
+	"NodeID" : 21,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		20
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		9.5276288291435307,
+		7.5637724292142492,
+		53.497008301539289
+	],
+	"NodeID" : 22,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 3
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		18,
+		24,
+		25,
+		26,
+		37
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		-9.0793992122592435,
+		-5.091091201454816,
+		48.589235444673051
+	],
+	"NodeID" : 23,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 3
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		23
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		8.0569426328334899,
+		12.554075265595387,
+		54.571375434945708
+	],
+	"NodeID" : 24,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		23,
+		38
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		13.406458542599326,
+		15.545317302844799,
+		53.36826135212727
+	],
+	"NodeID" : 25,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		23,
+		46
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		10.66168443634384,
+		13.778580785576739,
+		52.017420988650521
+	],
+	"NodeID" : 26,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		18,
+		64
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		3.4805403973441837,
+		2.0407726940664137,
+		42.965648846990156
+	],
+	"NodeID" : 27,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		18,
+		60
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		1.3425949459679209,
+		0.93328653105225357,
+		43.343361532005218
+	],
+	"NodeID" : 28,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		18,
+		30,
+		31
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		4.7480997415430455,
+		4.236059630287591,
+		49.381735172302903
+	],
+	"NodeID" : 29,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		29
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		8.6512514794482556,
+		8.0749233374289879,
+		56.116251779734277
+	],
+	"NodeID" : 30,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		29
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 3
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		8.7255989972622796,
+		5.9793772619798959,
+		55.409633100239596
+	],
+	"NodeID" : 31,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 3
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		17,
+		20,
+		8,
+		33,
+		36
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		24.976803915418266,
+		20.715069539746196,
+		42.099299687079558
+	],
+	"NodeID" : 32,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		32,
+		21,
+		34,
+		52
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		0.48044363726119954,
+		-4.4924356628422473,
+		47.425277589252204
+	],
+	"NodeID" : 33,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		33,
+		35,
+		38
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		16.061512117173905,
+		13.148895829825049,
+		56.341870642356341
+	],
+	"NodeID" : 34,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 3
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		34
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		10.05875170747907,
+		6.2737598071736009,
+		66.475460765386913
+	],
+	"NodeID" : 35,
+	"NonEmpty" : true,
+	"Parameters" : [],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		32,
+		37
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		0.69445035666264943,
+		3.1288947038968367,
+		43.77441733536552
+	],
+	"NodeID" : 36,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 3
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		17,
+		36,
+		23,
+		38,
+		45,
+		46,
+		47
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		17.883706088447301,
+		25.952457597573144,
+		44.213882033211959
+	],
+	"NodeID" : 37,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 3
+		},
+		{
+			"one" : 0,
+			"two" : 3
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		37,
+		25,
+		39,
+		41,
+		43,
+		34,
+		52
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		-4.8157663784880533,
+		-4.6366289818556297,
+		51.346706124553215
+	],
+	"NodeID" : 38,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 3
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		38,
+		40,
+		46,
+		53
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		20.241748362593125,
+		19.784913644592262,
+		54.562952878395187
+	],
+	"NodeID" : 39,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		39
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		5.8084065371545872,
+		5.5149750122819281,
+		65.057448160377504
+	],
+	"NodeID" : 40,
+	"NonEmpty" : true,
+	"Parameters" : [],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		38,
+		42,
+		56
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		15.972356249808771,
+		14.125092156276521,
+		56.578656740905586
+	],
+	"NodeID" : 41,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		41
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		10.180937008546845,
+		8.7521928305882337,
+		66.61254438314856
+	],
+	"NodeID" : 42,
+	"NonEmpty" : true,
+	"Parameters" : [],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		38,
+		44,
+		47
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		10.952998729519043,
+		15.882385352407915,
+		57.316781152765067
+	],
+	"NodeID" : 43,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 4,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		43
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		3.6740149726600064,
+		8.8208478357318345,
+		66.857606552786763
+	],
+	"NodeID" : 44,
+	"NonEmpty" : true,
+	"Parameters" : [],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		37
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		0.31938620357201852,
+		8.772866557727383,
+		44.577403873782742
+	],
+	"NodeID" : 45,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 0
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		37,
+		26,
+		39,
+		60
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		-7.2779805478508877,
+		-5.2885849135475809,
+		47.478977024891407
+	],
+	"NodeID" : 46,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		37,
+		48,
+		49,
+		50,
+		43,
+		51,
+		66
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		-15.462403931948526,
+		-6.0726999790838185,
+		51.11561952047726
+	],
+	"NodeID" : 47,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 3
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		47
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		1.6644421875262383,
+		9.9000745267274723,
+		55.810726412629847
+	],
+	"NodeID" : 48,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		47
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		0.77228859571178043,
+		12.144291264879389,
+		55.740664435025003
+	],
+	"NodeID" : 49,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 3
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		47
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		0.17213398014371695,
+		10.608360754297625,
+		55.720246181133575
+	],
+	"NodeID" : 50,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		47
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		2.2699146190008381,
+		11.42126904825597,
+		55.778688043301131
+	],
+	"NodeID" : 51,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		17,
+		19,
+		7,
+		33,
+		38,
+		53,
+		56,
+		58,
+		59
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		28.889213843790138,
+		20.817044656922292,
+		43.763877132015409
+	],
+	"NodeID" : 52,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		52,
+		54,
+		39,
+		55,
+		60
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		-7.1563520769978695,
+		-10.672433123819751,
+		48.955659989797056
+	],
+	"NodeID" : 53,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		53
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		10.610999980079695,
+		5.1473493741787797,
+		53.937497555605972
+	],
+	"NodeID" : 54,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		53
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		10.449843295546724,
+		6.1893969459876255,
+		54.867259528416888
+	],
+	"NodeID" : 55,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 4,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		52,
+		41,
+		57,
+		64
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		1.770734679123894,
+		-3.308335667913088,
+		48.155867201045957
+	],
+	"NodeID" : 56,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		56
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		13.080654162687917,
+		8.3608470241384971,
+		54.383895440184297
+	],
+	"NodeID" : 57,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		52
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		12.425182147443145,
+		2.848264713586361,
+		44.40575473282194
+	],
+	"NodeID" : 58,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		52
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		11.242200862613853,
+		3.6634045967212483,
+		44.405931146419661
+	],
+	"NodeID" : 59,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 4,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		17,
+		28,
+		46,
+		53,
+		61,
+		63
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		21.68117820568084,
+		18.501421124898201,
+		41.963457667836117
+	],
+	"NodeID" : 60,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		60,
+		62,
+		64
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		2.0009889291834746,
+		-2.0810629288685227,
+		44.558008700606898
+	],
+	"NodeID" : 61,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		61,
+		65
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		9.7849376256482188,
+		5.9121700380033211,
+		50.375795592302843
+	],
+	"NodeID" : 62,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 4,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		60,
+		66
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		2.3076924495467104,
+		0.62432297072593101,
+		42.41481910637512
+	],
+	"NodeID" : 63,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		17,
+		27,
+		56,
+		61,
+		65
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		25.169369033520493,
+		19.002605967346586,
+		40.656541398937321
+	],
+	"NodeID" : 64,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 0
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		64,
+		62
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		6.5707488475271765,
+		2.1930309678854485,
+		45.282992247910258
+	],
+	"NodeID" : 65,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 4,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		17,
+		63,
+		47
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		12.758943517238626,
+		12.386868505579676,
+		40.012402412216538
+	],
+	"NodeID" : 66,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		17,
+		68,
+		69,
+		70,
+		74,
+		80
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		25.045112604087553,
+		28.071133828056915,
+		42.084252013669698
+	],
+	"NodeID" : 67,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		67
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		6.7728989736118574,
+		11.340382034784888,
+		43.114176066076553
+	],
+	"NodeID" : 68,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		67
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		8.2270618992832354,
+		12.089844764841551,
+		42.821237554402344
+	],
+	"NodeID" : 69,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 4,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		67,
+		71,
+		72,
+		73
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		5.5446035232755744,
+		10.015379671148715,
+		49.215441638799085
+	],
+	"NodeID" : 70,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		70,
+		74
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		13.146133012864126,
+		19.97498256767345,
+		53.044438944623465
+	],
+	"NodeID" : 71,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		70
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		10.878473663931107,
+		14.105995201184744,
+		54.739205034732414
+	],
+	"NodeID" : 72,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 4,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		70
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		11.193480320961756,
+		15.632036602586487,
+		54.757681368124061
+	],
+	"NodeID" : 73,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		67,
+		71,
+		75,
+		76,
+		77,
+		78,
+		79
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		-4.7075255331333423,
+		3.6943324547450729,
+		51.377773811440171
+	],
+	"NodeID" : 74,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 3
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		74
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		11.82226333031074,
+		21.476006729640218,
+		54.825726995556337
+	],
+	"NodeID" : 75,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		74
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		12.91351427473532,
+		21.827620760920517,
+		55.73555058544725
+	],
+	"NodeID" : 76,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		74
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 1,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		11.426134036876036,
+		21.995784951169583,
+		53.822146786553859
+	],
+	"NodeID" : 77,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		74
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		13.384460778009927,
+		22.036460159988824,
+		54.896784299534417
+	],
+	"NodeID" : 78,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		74
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		12.157769392663702,
+		20.212381891133631,
+		54.930010034688536
+	],
+	"NodeID" : 79,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		67
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		7.9666807875561547,
+		10.33885300305402,
+		42.349797107421864
+	],
+	"NodeID" : 80,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 0
+		},
+		{
+			"one" : 3,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		0,
+		10,
+		82,
+		84
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		8.0666807875561553,
+		10.979933599836789,
+		10
+	],
+	"NodeID" : 81,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		81,
+		19,
+		83
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		8.1666807875561549,
+		11.411887018572182,
+		20
+	],
+	"NodeID" : 82,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		82,
+		21
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		8.2666807875561545,
+		12.031483502977913,
+		30
+	],
+	"NodeID" : 83,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		81
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		8.3666807875561542,
+		12.312542915860138,
+		20
+	],
+	"NodeID" : 84,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		0
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		8.4666807875561538,
+		13.098545014343173,
+		10
+	],
+	"NodeID" : 85,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		1,
+		17,
+		81,
+		85
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		22.515235452113405,
+		16.7867439156846,
+		22.511039381383092
+	],
+	"NodeID" : 0,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		0,
+		2,
+		10,
+		14,
+		16
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		-6.4670955893111106,
+		-10.259055229037767,
+		30.487743548628064
+	],
+	"NodeID" : 1,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		1,
+		3,
+		7,
+		8,
+		17
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		23.838689510795628,
+		20.335493682520543,
+		38.022711622183344
+	],
+	"NodeID" : 2,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		2,
+		4,
+		5,
+		16,
+		18
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		-7.5274813367021665,
+		-10.380528170973559,
+		44.539271533682424
+	],
+	"NodeID" : 3,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		3,
+		8,
+		15,
+		20
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		22.783761671319766,
+		19.561391196762372,
+		47.43029053033338
+	],
+	"NodeID" : 4,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		3,
+		6
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		9.8672576612863807,
+		6.7991469808301623,
+		57.287489801279662
+	],
+	"NodeID" : 5,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		5
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		6.5871403946735185,
+		3.364943817303335,
+		67.027503410816934
+	],
+	"NodeID" : 6,
+	"NonEmpty" : true,
+	"Parameters" : [],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		2,
+		52
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		5.9059979532186482,
+		-0.3168727846255468,
+		42.166940681779153
+	],
+	"NodeID" : 7,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		2,
+		9,
+		4,
+		14,
+		32
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		-4.9773049666875515,
+		-9.4455734319191755,
+		43.334771291456157
+	],
+	"NodeID" : 8,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		8
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		12.703652311729451,
+		7.989908863911392,
+		51.777974438583499
+	],
+	"NodeID" : 9,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		1,
+		11,
+		13,
+		81
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		21.034099308006791,
+		17.032488107008344,
+		33.446335864007644
+	],
+	"NodeID" : 10,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		10,
+		12,
+		16
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		-0.55087833832416244,
+		-3.8885162524995174,
+		40.393516099749114
+	],
+	"NodeID" : 11,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		11,
+		13,
+		15
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		15.231084649065741,
+		11.621804680343347,
+		45.953953245959653
+	],
+	"NodeID" : 12,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		10,
+		12,
+		14
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		0.68144519428673789,
+		-3.5648240098526376,
+		40.186686219443466
+	],
+	"NodeID" : 13,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		1,
+		13,
+		8,
+		15
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		23.727277940483841,
+		19.445007288976349,
+		37.02581825816565
+	],
+	"NodeID" : 14,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		14,
+		12,
+		4,
+		16
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		-6.8918190506422867,
+		-10.055101200964458,
+		42.435386637425466
+	],
+	"NodeID" : 15,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		1,
+		3,
+		11,
+		15
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		22.163169434984049,
+		18.905490155090813,
+		37.488004112365836
+	],
+	"NodeID" : 16,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		0,
+		18,
+		32,
+		37,
+		2,
+		52,
+		60,
+		64,
+		66,
+		67
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		-3.5592637830277951,
+		-12.462517216184015,
+		37.548849265155418
+	],
+	"NodeID" : 17,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		17,
+		3,
+		19,
+		20,
+		23,
+		27,
+		28,
+		29
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		22.199287936680538,
+		23.997561448399939,
+		42.616526029175148
+	],
+	"NodeID" : 18,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		18,
+		52,
+		82
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		2.4276577555336445,
+		-1.0734818224317468,
+		41.571400516937913
+	],
+	"NodeID" : 19,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		18,
+		4,
+		21,
+		22,
+		32
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		-7.1710844615248028,
+		-9.9181467221734572,
+		46.449084391608572
+	],
+	"NodeID" : 20,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		20,
+		33,
+		83
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		16.379335587660556,
+		12.566944043810114,
+		49.416796835932992
+	],
+	"NodeID" : 21,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		20
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		9.9503204911651792,
+		7.5436993864587523,
+		53.155956567176027
+	],
+	"NodeID" : 22,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 3
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		18,
+		24,
+		25,
+		26,
+		37
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		-9.0793992122592435,
+		-5.091091201454816,
+		48.543511551616611
+	],
+	"NodeID" : 23,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 3
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		23
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		7.9566004669860497,
+		12.413894585210603,
+		54.423359366858847
+	],
+	"NodeID" : 24,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		23,
+		38
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		13.690586668799217,
+		15.86460853690448,
+		53.306059840250626
+	],
+	"NodeID" : 25,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		23,
+		46
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		11.608319705399451,
+		14.61548823338642,
+		52.016281501682982
+	],
+	"NodeID" : 26,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		18,
+		64
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		3.064093625863693,
+		0.85400888623307658,
+		43.077216682814154
+	],
+	"NodeID" : 27,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		18,
+		60
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		0.89524471138199324,
+		0.39259962239008139,
+		43.36493469836045
+	],
+	"NodeID" : 28,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		18,
+		30,
+		31
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		3.3496318719918445,
+		5.3756969180651559,
+		48.992226168647818
+	],
+	"NodeID" : 29,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		29
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		6.6096480254614338,
+		9.7599744395270598,
+		55.258876229947894
+	],
+	"NodeID" : 30,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		29
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 3
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		7.5297639023639054,
+		8.4841612291748998,
+		55.279928435231874
+	],
+	"NodeID" : 31,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 3
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		17,
+		20,
+		8,
+		33,
+		36
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		24.976803915418266,
+		20.715069539746196,
+		41.231052756601301
+	],
+	"NodeID" : 32,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		32,
+		21,
+		34,
+		52
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		-2.5994838080229563,
+		-7.3887054411222053,
+		46.991276320796175
+	],
+	"NodeID" : 33,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		33,
+		35,
+		38
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		16.859667994463727,
+		15.207376623545462,
+		55.955628596150056
+	],
+	"NodeID" : 34,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 3
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		34
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		9.0818416917079254,
+		7.3316530175921599,
+		66.204599419278409
+	],
+	"NodeID" : 35,
+	"NonEmpty" : true,
+	"Parameters" : [],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		32,
+		37
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		0.4044736030836944,
+		2.5836455786197536,
+		43.380776600720296
+	],
+	"NodeID" : 36,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 3
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		17,
+		36,
+		23,
+		38,
+		45,
+		46,
+		47
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		17.883706088447301,
+		25.952457597573144,
+		44.179520933983959
+	],
+	"NodeID" : 37,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 3
+		},
+		{
+			"one" : 0,
+			"two" : 3
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		37,
+		25,
+		39,
+		41,
+		43,
+		34,
+		52
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		-4.8157663784880533,
+		-4.6366289818556297,
+		51.217620673801775
+	],
+	"NodeID" : 38,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 3
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		38,
+		40,
+		46,
+		53
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		23.00030377516611,
+		22.586513747354577,
+		54.530635929034815
+	],
+	"NodeID" : 39,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		39
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		5.2940726431698124,
+		5.3128355577510842,
+		64.925543704841957
+	],
+	"NodeID" : 40,
+	"NonEmpty" : true,
+	"Parameters" : [],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		38,
+		42,
+		56
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		18.080145479984246,
+		14.025171584596009,
+		56.409172495465427
+	],
+	"NodeID" : 41,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		41
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		11.100122668418477,
+		6.4640398302652162,
+		66.37080774154694
+	],
+	"NodeID" : 42,
+	"NonEmpty" : true,
+	"Parameters" : [],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		38,
+		44,
+		47
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		11.866485244503707,
+		16.68488220133764,
+		57.211421789974743
+	],
+	"NodeID" : 43,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 4,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		43
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		3.429545853980938,
+		8.498686643007666,
+		66.711462975374772
+	],
+	"NodeID" : 44,
+	"NonEmpty" : true,
+	"Parameters" : [],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		37
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		0.2330521024126968,
+		8.6055477222598338,
+		44.598916871961272
+	],
+	"NodeID" : 45,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 0
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		37,
+		26,
+		39,
+		60
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		-8.7135167965934706,
+		-6.8915655968147362,
+		47.495525429703939
+	],
+	"NodeID" : 46,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		37,
+		48,
+		49,
+		50,
+		43,
+		51,
+		66
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		-15.462403931948526,
+		-6.0726999790838185,
+		51.076448643874976
+	],
+	"NodeID" : 47,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 3
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		47
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		2.0430708530017121,
+		10.204891099273009,
+		55.714140246441339
+	],
+	"NodeID" : 48,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		47
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		1.1222891816416243,
+		12.394623239402929,
+		55.707052777015882
+	],
+	"NodeID" : 49,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 3
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		47
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		0.56393160306293844,
+		10.871458340182986,
+		55.706867189555304
+	],
+	"NodeID" : 50,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		47
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		2.5974355396614417,
+		11.72279350879087,
+		55.743015691497909
+	],
+	"NodeID" : 51,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		17,
+		19,
+		7,
+		33,
+		38,
+		53,
+		56,
+		58,
+		59
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		28.889213843790138,
+		20.817044656922292,
+		43.484235955115331
+	],
+	"NodeID" : 52,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		52,
+		54,
+		39,
+		55,
+		60
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		-7.1563520769978695,
+		-10.672433123819751,
+		49.096163928880543
+	],
+	"NodeID" : 53,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		53
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		10.019390337043122,
+		5.4377907271032075,
+		54.584084046530997
+	],
+	"NodeID" : 54,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		53
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		10.958073817537569,
+		6.8070736494164219,
+		54.839128563750322
+	],
+	"NodeID" : 55,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 4,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		52,
+		41,
+		57,
+		64
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		0.33750734354695311,
+		-6.2930826552079502,
+		48.048402987725872
+	],
+	"NodeID" : 56,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		56
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		14.358462720807923,
+		7.2244121755144572,
+		54.353712639702181
+	],
+	"NodeID" : 57,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		52
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		12.358190857509442,
+		2.736923371087868,
+		44.288638752287184
+	],
+	"NodeID" : 58,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		52
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		11.039732141640531,
+		3.4093224268903102,
+		44.308624041025325
+	],
+	"NodeID" : 59,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 4,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		17,
+		28,
+		46,
+		53,
+		61,
+		63
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		21.68117820568084,
+		18.501421124898201,
+		42.027434390484366
+	],
+	"NodeID" : 60,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		60,
+		62,
+		64
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		1.4243511698338711,
+		-3.7634804304693219,
+		44.722897037309536
+	],
+	"NodeID" : 61,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		61,
+		65
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		10.910982664007593,
+		4.8633247437281915,
+		50.525046779393385
+	],
+	"NodeID" : 62,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 4,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		60,
+		66
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		1.6478950429180603,
+		0.1394089134282126,
+		42.253009265098946
+	],
+	"NodeID" : 63,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		17,
+		27,
+		56,
+		61,
+		65
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		25.169369033520493,
+		19.002605967346586,
+		41.39981251723357
+	],
+	"NodeID" : 64,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 0
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		64,
+		62
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		6.7249654203951481,
+		0.42734979844188015,
+		45.454422398363349
+	],
+	"NodeID" : 65,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 4,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		17,
+		63,
+		47
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		13.635377705267278,
+		13.313691535602747,
+		40.057661013265445
+	],
+	"NodeID" : 66,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		17,
+		68,
+		69,
+		70,
+		74,
+		80
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		25.045112604087553,
+		28.071133828056915,
+		43.373511994129942
+	],
+	"NodeID" : 67,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		67
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		6.4577963908324021,
+		10.887856464838411,
+		44.310188328985213
+	],
+	"NodeID" : 68,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		67
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		7.7410339947199542,
+		11.898496125415853,
+		44.17151887749425
+	],
+	"NodeID" : 69,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 4,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		67,
+		71,
+		72,
+		73
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		4.6893684624885612,
+		8.960201378694677,
+		50.51880023686499
+	],
+	"NodeID" : 70,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		70,
+		74
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		13.792418497246803,
+		20.241475090478232,
+		54.661025032111503
+	],
+	"NodeID" : 71,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		70
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		11.687970949824749,
+		14.393548042098352,
+		55.8047275754937
+	],
+	"NodeID" : 72,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 4,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		70
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		10.380055886787931,
+		15.161492587616543,
+		55.662998521406791
+	],
+	"NodeID" : 73,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		67,
+		71,
+		75,
+		76,
+		77,
+		78,
+		79
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		-4.7075255331333423,
+		3.6943324547450729,
+		53.313597156847628
+	],
+	"NodeID" : 74,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 3
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		74
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		11.177852009277169,
+		20.921296275014715,
+		56.831312205987508
+	],
+	"NodeID" : 75,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		74
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 0,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		12.871370845283385,
+		21.847471670210545,
+		57.415814691374948
+	],
+	"NodeID" : 76,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		74
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 1,
+			"two" : 3
+		}
+	],
+	"Location" : 
+	[
+		11.904830208977586,
+		22.396859217999996,
+		56.479591797432938
+	],
+	"NodeID" : 77,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		74
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 4,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		13.989793619168182,
+		21.130963493049478,
+		56.710263019061713
+	],
+	"NodeID" : 78,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		74
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 3
+		},
+		{
+			"one" : 1,
+			"two" : 0
+		}
+	],
+	"Location" : 
+	[
+		12.593680352224236,
+		20.086255369856122,
+		56.975260171826555
+	],
+	"NodeID" : 79,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : true,
+	"ConnectedNodes" : 
+	[
+		67
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		8.3601121593360581,
+		10.385882149100668,
+		44.356772493126314
+	],
+	"NodeID" : 80,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 1,
+			"two" : 0
+		},
+		{
+			"one" : 3,
+			"two" : 0
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		0,
+		10,
+		82,
+		84
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		}
+	],
+	"Location" : 
+	[
+		0.068467074056322019,
+		-4.4957717786137259,
+		26.669183426177703
+	],
+	"NodeID" : 81,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		81,
+		19,
+		83
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		13.726116230080713,
+		9.6329149477755394,
+		35.074100256403995
+	],
+	"NodeID" : 82,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		82,
+		21
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 1,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		7.6206971243407571,
+		3.5323659169905515,
+		43.308155581750178
+	],
+	"NodeID" : 83,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		81
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		10.462353959787229,
+		5.9321327850522447,
+		28.420386756117601
+	],
+	"NodeID" : 84,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+},{
+	"Complete" : false,
+	"ConnectedNodes" : 
+	[
+		0
+	],
+	"Contacts" : 
+	[
+		{
+			"one" : 2,
+			"two" : 0
+		},
+		{
+			"one" : 2,
+			"two" : 1
+		}
+	],
+	"Location" : 
+	[
+		7.5834738787053908,
+		1.9196043459097969,
+		18.587626596818332
+	],
+	"NodeID" : 85,
+	"NonEmpty" : true,
+	"Parameters" : 
+	[
+		{
+			"one" : 0,
+			"two" : 2
+		},
+		{
+			"one" : 3,
+			"two" : 1
+		},
+		{
+			"one" : 3,
+			"two" : 2
+		},
+		{
+			"one" : 2,
+			"two" : 2
+		}
+	],
+	"StepSize" : 0.40000000000000002
+}
+]

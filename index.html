@@ -1,0 +1,247 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>EASAL</title>
+  <meta name="WEB version of EASAL" content="">
+<!--ORDER MATTERS-->
+  <script src="JS/gl-matrix.js"></script>
+  <script src="JS/Constants.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="JS/Loader.js"></script>
+  <script src="JS/Button.js"></script>
+  <script src="JS/Mesh3D.js"></script>
+  <script src="JS/Renderer.js"></script>
+  <script src="JS/ErrorLogger.js"></script>	
+  <script src="JS/BondView.js"></script>
+  <script src="JS/OpenGLWidget.js"></script>
+  <script src="JS/SweepView.js"></script>
+  <script src="JS/AtlasView.js"></script>
+  <script src="JS/CayleySpaceView.js"></script>
+  <script src="JS/RealisationView.js"></script>
+  <script src="JS/CornerRealisationView.js"></script>
+  <script src="JS/Util.js"></script>
+  <script src="JS/Camera.js"></script>
+  <script src="JS/Slider.js"></script>
+  <script src="JS/DropDown.js"></script>
+  <script src="JS/CheckBox.js"></script>
+	<script src="JS/OnClose.js"></script>
+
+  <link rel="stylesheet" href="CSS/mainPage.css?v=1.0">
+  <link rel="stylesheet" href="CSS/settingsPopup.css?v=1.0">
+	<link rel="shortcut icon" href="IMG/favicon.ico">
+	<script>window.onunload = closingCode;</script>
+	<script>window.onbeforeunload = alertCode;</script>
+
+
+</head>
+
+<body>
+	<p id="ErrorOutput"></p>	
+	
+	<div id="Views">
+		<div class="tab">
+			<button class="tablinks" onclick="openTab(event, 'Atlas')">Atlas</button>
+			<button class="tablinks" onclick="openTab(event, 'CayleySpace')">CayleySpace</button>
+			<button class="tablinks" onclick="openTab(event, 'Sweep')">Sweep</button>
+			<button class="tablinks" onclick="openTab(event, 'Realisation')">Realisation</button>
+		</div>
+		<div id="Atlas" class="tabcontent">
+			<canvas class="Canvas" id="CanvasAtlas"></canvas>
+		</div>
+		<div id="CayleySpace" class="tabcontent">
+			<canvas class="Canvas" id="CanvasCayleySpaceView"></canvas>
+		</div>
+		<div id="Sweep" class="tabcontent">
+			<canvas class="Canvas" id="CanvasSweepView"></canvas>
+		</div>
+		<div id="Realisation" class="tabcontent">
+			<canvas class="Canvas" id="CanvasRealisationView"></canvas>
+		</div>
+	</div>
+
+	<div id="SideBar">
+		<div id="MoleculeViewSideBar" height="300">
+			<canvas class="Canvas" id="CanvasCornerRealisationView"></canvas>
+		</div>
+		<!--Settings popup-->
+			<button id="setSettingsButton">Start EASAL</button>
+			<div id="settingsPopup" class="modal" >
+			  <div class="settingsPopupContent"  style="height: auto">
+				<table>
+				  <tr>
+					<td> <p>Molecular Unit A:</p> </td>
+					<!--<td><select id="molecularUnitAPath">
+						<option value="3AtomA.pdb">3Atoms</option>
+						<option value="6AtomA.pdb">6Atoms</option>
+						<option disabled value="20AtomA.pdb">20Atoms</option>
+					</select>-->
+<!--					<td> <input id="molecularUnitAPath" type="text" value="A.pdb"></td>-->
+					<td> <select id="molecularUnitADropdown"> </select> </td>
+					<td> <button id="makeMoleculeAButton">Make molecule</button> </td>
+					<td> <input type="file" id="loadMoleculeA" > </td>
+<!--					<td> <button id="selectMolecularUnitAData">Set Data</button> </td>-->
+				  </tr>
+				  <tr>
+					<td> <p>Molecular Unit B:</p> </td>
+					<!--<td><select id="molecularUnitBPath">
+						<option value="3AtomB.pdb">3Atoms</option>
+						<option value="6AtomB.pdb">6Atoms</option>
+						<option disabled value="20AtomB.pdb">20Atoms</option>
+					</select>-->
+<!--					<td> <input id="molecularUnitBPath" type="text" value="B.pdb"></td>-->
+					  <td> <select id="molecularUnitBDropdown"> </select> </td>
+					<!--<td> <button id="selectMolecularUnitBFile">Set File</button> </td>
+					<td> <button id="selectMolecularUnitBData">Set Data</button> </td>-->
+					 <td> <button id="makeMoleculeBButton">Make molecule</button> </td>
+					  <td> <input type="file" id="loadMoleculeB" > </td>
+				  </tr>
+				  <tr>
+					<td> <p>Predefined Interactions:</p> </td>
+					<td> <input id="predefinedInteractionsPath" type="text" value="???" style="width:95px"> </td>
+					<!--<td> <button id="selectpredefinedInteractionsFile">Set File</button> </td>-->
+				  </tr>
+				  <tr>
+				</table>
+				<table>
+					<td> <h4>Bonding Treshhold:</h4> </td>
+					<td> <h4>Lambda:</h4> </td>
+					<td>  </td>
+					<td> <h4>Delta</h4> </td>
+				  </tr>
+				  <tr>
+					<td> <p>Lower Bound:</p> </td>
+					<td> <input id="bondingTreshholdLowerBoundLambda" type="text" size="8"  value="0.75"></td>
+					<td> <p>*(ri+rj) +</p> </td>
+					<td> <input id="bondingTreshholdLowerBoundDelta" type="text" size="8" value="0"></td>
+				  </tr>
+				  <tr>
+					<td> <p>Upper Bound:</p> </td>
+					<td> <input id="bondingTreshholdUpperBoundLambda" type="text" size="8" value="1"></td>
+					<td> <p>*(ri+rj) +</p> </td>
+					<td> <input id="bondingTreshholdUpperBoundDelta" type="text" size="8" value="0"></td>
+				  </tr>
+				  <tr>
+					<td> <h4>Collision Treshhold:</h4> </td>
+				  </tr>
+				  <tr>
+					<td> <p>Lower Bound:</p> </td>
+					<td> <input id="collisionTreshholdLowerBoundLambda" type="text" size="8" value="0.75"></td>
+					<td> <p>*(ri+rj) +</p> </td>
+					<td> <input id="collisionTreshholdLowerBoundDelta" type="text" size="8" value="0"></td>
+				  </tr>
+				  <tr>
+					<td> <h4>Angle Constraint:</h4> </td>
+				  </tr>
+				  <tr>
+					<td> <p>Angle Low:</p> </td>
+					<td> <input id="angleLow" type="text" size="8" value="0"></td>
+					<td> <p>Angle High</p> </td>
+					<td> <input id="angleHigh" type="text" size="8" value="45"></td>
+				  </tr>
+				</table>    
+				<table>
+				  <tr>
+					<td> <p>Step Size:</p></td>
+					<td> <input id="stepSize" type="text" value="0.8"> </td>
+					<td colspan="2"> <button id="advancedOptionsButton">Advanced Options</button> </td>  
+				  </tr>
+				</table>
+				<table>
+				  <tr>
+					<td colspan="2"> <button id="acceptSettingsButton">Accept</button> </td>
+					<td colspan="2"> <button id="cancelSettingsButton">Cancel</button> </td>
+				  </tr>
+				</table> 
+			  </div>
+			</div>
+			
+			<div id="advancedSettingsPopup" class="modal" >
+			<div class="advancedSettingsPopupContent"  style="height: auto">	
+				<table>
+				  <tr>
+					<td style="text-align: left;" colspan="1"> <input type="checkbox" id="ReverseWitnessCheckBox">Reverse Witness</button> </td>
+					<td style="text-align: left;" colspan="1"> <input type="checkbox" id="WholeCollisionCheckBox">Whole Collisions</button> </td>
+					<td style="text-align: left;" colspan="1"> <input type="checkbox" id="FourDRootNodeCheckBox">4D Root Node</button> </td>
+				  </tr>
+				  <tr>
+					<td style="text-align: left;" colspan="1"> <input type="checkbox" id="DynamicStepSizeAmongCheckBox">Dynamic Step Size Among</button> </td>
+					<td style="text-align: left;" colspan="1"> <input type="checkbox" id="DynamicStepSizeBetweenCheckBox">Dynamic Step Size Between</button> </td>
+					<td style="text-align: left;" colspan="1"> <input type="checkbox" id="ReversePairDumbbellsCheckBox">Reverse Pair Dumbbells</button> </td>
+				  </tr>
+				  <tr>
+					<td style="text-align: left;" colspan="1"> <input type="checkbox" id="UseParticipatingAtomsZDistanceCheckBox">Use Participating Atoms Z Distance</button> </td>
+					<td style="text-align: left;" colspan="2"> Participatinp Atoms Z Distance <input id="ParticipatingAtomsZDistance" type="text" size="8" value="1"></td>
+				  </tr>
+				  <tr>
+					<td style="text-align: left;" colspan="1"> <input type="checkbox" id="ShortRangeSamplingCheckBox">Short Range Sampling</button> </td>
+					<td style="text-align: left;" colspan="1">  </td>
+					<td style="text-align: left;" colspan="1">  </td>
+				  </tr>
+				</table>
+				<table>
+					<tr>
+						<td style="text-align: left;" colspan="1"> Participating Atom Index Low</td>
+						<td style="text-align: left;" colspan="1"> <input id="ParticipatingAtomIndexLow" type="text" size="8" value="0"> </td>
+						<td style="text-align: left;" colspan="1"> Participating Atom Index High</td>
+						<td style="text-align: left;" colspan="1"> <input id="ParticipatingAtomIndexHigh" type="text" size="8" value="0.8"> </td>
+					</tr>
+					<tr>
+						<td style="text-align: left;" colspan="1">Initial 4F Contact Seperation Low</td>
+						<td style="text-align: left;" colspan="1"> <input id="Initial4DContactSeperationLow" type="text" size="8" value="1.8"> </td>
+						<td style="text-align: left;" colspan="1">Initial 4F Contact Seperation High</td>
+						<td style="text-align: left;" colspan="1"> <input id="Initial4DContactSeperationHigh" type="text" size="8" value="7.2"> </td>
+					</tr>
+					<tr>
+						<td style="text-align: left;" colspan="1">Save Points Frequency</td>
+						<td style="text-align: left;" colspan="1"> <input id="SavePointFrequency" type="text" size="8" value="10000"> </td>
+						<td style="text-align: left;" colspan="1"></td>
+						<td style="text-align: left;" colspan="1"></td>
+					</tr>
+				</table> 
+				<table>
+				  <tr>
+					<td colspan="2"> <button id="acceptAdvancedSettingsButton">Accept</button> </td>
+					<td colspan="2"> <button id="cancelAdvancedSettingsButton">Cancel</button> </td>
+				  </tr>
+				</table> 
+			</div>
+		</div>
+
+		<div id="moleculeCreatorPopup" class="modal" >
+			<div class="moleculeCreatorPopupContent"  style="height: auto">	
+				<table id="moleculeCreatorTable">
+					  <tr>
+						<td>1</td>
+						<td>2</td>
+						<td>3</td>
+						<td>4</td>
+						<td>5</td>
+						<td>6</td>
+						<td>7</td>
+						<td>8</td>
+						<td>9</td>
+						<td>10</td>
+						<td>11</td>
+					  </tr>
+				</table> 
+				<button id="addAtomButton">Add atom</button>
+				<button id="removeAtomButton">Remove atom</button>
+				<table>
+				  <tr>
+					<td colspan="2"> <button id="acceptMoleculeButton">Accept</button> </td>
+					<td colspan="2"> <button id="cancelMoleculeButton">Cancel</button> </td>
+				  </tr>
+				</table> 
+			</div>
+		</div>
+		
+  		<script src="JS/SettingsPopup.js"></script>
+		<canvas class="Canvas" id="CanvasBondView" height="300"></canvas>
+	</div>
+	<script src="JS/Main.js"></script>
+
+</body>
+</html>

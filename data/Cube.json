@@ -1,0 +1,137 @@
+{
+	"metadata": {
+		"version": 4.5,
+		"type": "Object",
+		"generator": "Object3D.toJSON"
+	},
+	"geometries": [
+		{
+			"uuid": "9E7A3265-B5A4-4A12-B71E-2A605AFDA0B0",
+			"type": "BufferGeometry",
+			"data": {
+				"attributes": {
+					"position": {
+						"itemSize": 3,
+						"type": "Float32Array",
+						"array": [0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,1,1,0,1,0,1,1,1,1,1,0,0,1,0,0,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,0,0,0,1,0,0,1,0,1,0,0,0,1,0,1,0,0,1,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1],
+						"normalized": false
+					},
+					"normal": {
+						"itemSize": 3,
+						"type": "Float32Array",
+						"array": [0,0,-1,0,0,-1,0,0,-1,0,0,-1,0,0,-1,0,0,-1,-1,0,0,-1,0,0,-1,0,0,-1,0,0,-1,0,0,-1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,-1,0,0,-1,0,0,-1,0,0,-1,0,0,-1,0,0,-1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1],
+						"normalized": false
+					},
+					"uv": {
+						"itemSize": 2,
+						"type": "Float32Array",
+						"array": [
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null,
+							null],
+						"normalized": false
+					}
+				},
+				"boundingSphere": {
+					"center": [0.5,0.5,0.5],
+					"radius": 0.866025
+				}
+			}
+		}],
+	"materials": [
+		{
+			"uuid": "ABDE6240-CEF3-4874-813D-16AD2F762E10",
+			"type": "MeshPhongMaterial",
+			"color": 16777215,
+			"emissive": 0,
+			"specular": 1118481,
+			"shininess": 30,
+			"depthFunc": 3,
+			"depthTest": true,
+			"depthWrite": true
+		}],
+	"object": {
+		"uuid": "11C16A4F-29F9-4F93-871D-1D1836A276B1",
+		"type": "Group",
+		"name": "cube.obj",
+		"matrix": [1,0,0,0,0,1,0,0,0,0,1,0,-0.5,-0.5,-0.5,1],
+		"children": [
+			{
+				"uuid": "518714AD-5DF0-46CE-8C9D-BD90AC455589",
+				"type": "Mesh",
+				"name": "cube",
+				"matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],
+				"geometry": "9E7A3265-B5A4-4A12-B71E-2A605AFDA0B0",
+				"material": "ABDE6240-CEF3-4874-813D-16AD2F762E10"
+			}]
+	}
+}

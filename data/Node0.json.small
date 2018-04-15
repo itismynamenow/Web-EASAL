@@ -1,0 +1,1507 @@
+[
+{
+	"BadAngle" : 4,
+	"CayleyPoint" : 
+	[
+		4.6497589044738294,
+		4.7387996492523126,
+		5.2080185001948092
+	],
+	"Collision" : 0,
+	"NodeID" : 669,
+	"Orientations" : 
+	[
+		{
+			"boundaries" : 
+			[
+				567,
+				662
+			],
+			"fb" : 
+			[
+				0.5,
+				0,
+				0,
+				0,
+				-6,
+				0.59999999999999998,
+				0.5,
+				-3,
+				0
+			],
+			"flip" : 1,
+			"tb" : 
+			[
+				-0.53303678972171276,
+				6.5388941008666883,
+				-2.5667163028768369,
+				-2.5499127011335831,
+				1.0140327101001658,
+				-1.1461114419881164,
+				-1.3385496992552204,
+				3.6757967809584642,
+				-2.1745139452753648
+			]
+		},
+		{
+			"boundaries" : 
+			[
+				666,
+				567,
+				662
+			],
+			"fb" : 
+			[
+				0.5,
+				0,
+				0,
+				0,
+				-6,
+				0.59999999999999998,
+				0.5,
+				-3,
+				0
+			],
+			"flip" : 3,
+			"tb" : 
+			[
+				-2.0680625257965128,
+				6.3809112225022036,
+				-1.1020556038638927,
+				-0.73843059638841801,
+				0.65691114297826014,
+				-2.5435485875123716,
+				-1.3385496992552699,
+				3.6757967809584793,
+				-2.1745139452754501
+			]
+		},
+		{
+			"boundaries" : 
+			[
+				567,
+				662,
+				666
+			],
+			"fb" : 
+			[
+				0.5,
+				0,
+				0,
+				0,
+				-6,
+				0.59999999999999998,
+				0.5,
+				-3,
+				0
+			],
+			"flip" : 4,
+			"tb" : 
+			[
+				1.7289144329222004,
+				6.3049716833278673,
+				2.6949213548548161,
+				3.0559279386649174,
+				0.5810239722771221,
+				1.2508099475409731,
+				2.7472127284090813,
+				3.5940815324052058,
+				1.9112484823889169
+			]
+		},
+		{
+			"boundaries" : 
+			[
+				567,
+				666
+			],
+			"fb" : 
+			[
+				0.5,
+				0,
+				0,
+				0,
+				-6,
+				0.59999999999999998,
+				0.5,
+				-3,
+				0
+			],
+			"flip" : 6,
+			"tb" : 
+			[
+				3.1967482278906489,
+				6.4642984005144566,
+				1.1630687147355225,
+				1.6655490038491056,
+				0.92972347600046268,
+				3.0693502629945733,
+				2.7472127284089907,
+				3.594081532405121,
+				1.9112484823888487
+			]
+		}
+	],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		5.0497589044738298,
+		4.7387996492523126,
+		5.2080185001948092
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		5.1200873178323443,
+		4.7387996492523126,
+		5.2080185001948092
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		4.2511691639372922,
+		4.7387996492523126,
+		5.2080185001948092
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		4.6497589044738294,
+		4.9722153648222758,
+		5.2080185001948092
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 6,
+	"CayleyPoint" : 
+	[
+		5.0497589044738298,
+		4.9722153648222758,
+		5.2080185001948092
+	],
+	"Collision" : 0,
+	"NodeID" : 669,
+	"Orientations" : 
+	[
+		{
+			"boundaries" : 
+			[
+				567,
+				666
+			],
+			"fb" : 
+			[
+				0.5,
+				0,
+				0,
+				0,
+				-6,
+				0.59999999999999998,
+				0.5,
+				-3,
+				0
+			],
+			"flip" : 1,
+			"tb" : 
+			[
+				-1.7353941602039404,
+				7.009408093674435,
+				-0.86499319625120852,
+				-2.5773476581479193,
+				1.0221723908036386,
+				-1.0976365833687158,
+				-2.1434558945422642,
+				4.0798756172220587,
+				-1.3663165354042317
+			]
+		}
+	],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		5.3442884370519037,
+		4.9722153648222758,
+		5.2080185001948092
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		4.4902519033208943,
+		4.9722153648222758,
+		5.2080185001948092
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 6,
+	"CayleyPoint" : 
+	[
+		4.6497589044738294,
+		4.3387996492523122,
+		5.2080185001948092
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		4.7323241032460102,
+		4.3387996492523122,
+		5.2080185001948092
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 5,
+	"CayleyPoint" : 
+	[
+		4.2497589044738291,
+		4.3387996492523122,
+		5.2080185001948092
+	],
+	"Collision" : 6,
+	"NodeID" : 669,
+	"Orientations" : 
+	[
+		{
+			"boundaries" : 
+			[
+				567,
+				662
+			],
+			"fb" : 
+			[
+				0.5,
+				0,
+				0,
+				0,
+				-6,
+				0.59999999999999998,
+				0.5,
+				-3,
+				0
+			],
+			"flip" : 6,
+			"tb" : 
+			[
+				3.6032730512085305,
+				5.8396566034487218,
+				0.71786333530071411,
+				1.0346058105539611,
+				1.0331452980276228,
+				3.3464366513118091,
+				2.5710880348946596,
+				3.2416233139175601,
+				1.8063563846972768
+			]
+		}
+	],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 7,
+	"CayleyPoint" : 
+	[
+		3.8497589044738292,
+		4.3387996492523122,
+		5.2080185001948092
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 6,
+	"CayleyPoint" : 
+	[
+		3.8453508112546362,
+		4.3387996492523122,
+		5.2080185001948092
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		4.3394984589732966,
+		3.9387996492523123,
+		5.2080185001948092
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 6,
+	"CayleyPoint" : 
+	[
+		3.9394984589732966,
+		3.9387996492523123,
+		5.2080185001948092
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 7,
+	"CayleyPoint" : 
+	[
+		3.5394984589732967,
+		3.9387996492523123,
+		5.2080185001948092
+	],
+	"Collision" : 6,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 6,
+	"CayleyPoint" : 
+	[
+		3.4453597272978094,
+		3.9387996492523123,
+		5.2080185001948092
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		3.9403358473765668,
+		3.5387996492523124,
+		5.2080185001948092
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 6,
+	"CayleyPoint" : 
+	[
+		3.5403358473765669,
+		3.5387996492523124,
+		5.2080185001948092
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 7,
+	"CayleyPoint" : 
+	[
+		3.140335847376567,
+		3.5387996492523124,
+		5.2080185001948092
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 6,
+	"CayleyPoint" : 
+	[
+		3.0531779428867818,
+		3.5387996492523124,
+		5.2080185001948092
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		3.5323132461878752,
+		3.1387996492523125,
+		5.2080185001948092
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 7,
+	"CayleyPoint" : 
+	[
+		3.1323132461878753,
+		3.1387996492523125,
+		5.2080185001948092
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 7,
+	"CayleyPoint" : 
+	[
+		2.8800000000000003,
+		3.1387996492523125,
+		5.2080185001948092
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		3.2612964479404454,
+		2.8800000000000003,
+		5.2080185001948092
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 7,
+	"CayleyPoint" : 
+	[
+		2.8800000000000003,
+		2.8800000000000003,
+		5.2080185001948092
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 0,
+	"CayleyPoint" : 
+	[
+		3.2612964479404454,
+		4.4924553162602665,
+		5.6080185001948095
+	],
+	"Collision" : 0,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : false,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 0,
+	"CayleyPoint" : 
+	[
+		2.8800000000000003,
+		4.4924553162602665,
+		5.6080185001948095
+	],
+	"Collision" : 0,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : false,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 6,
+	"CayleyPoint" : 
+	[
+		4.4910593112554826,
+		4.0924553162602662,
+		5.6080185001948095
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 5,
+	"CayleyPoint" : 
+	[
+		4.0910593112554823,
+		4.0924553162602662,
+		5.6080185001948095
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		3.6910593112554824,
+		4.0924553162602662,
+		5.6080185001948095
+	],
+	"Collision" : 4,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		3.5982256290990366,
+		4.0924553162602662,
+		5.6080185001948095
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 4,
+	"CayleyPoint" : 
+	[
+		4.094541576943489,
+		3.6924553162602662,
+		5.6080185001948095
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 6,
+	"CayleyPoint" : 
+	[
+		3.6945415769434891,
+		3.6924553162602662,
+		5.6080185001948095
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		3.2945415769434891,
+		3.6924553162602662,
+		5.6080185001948095
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		3.2027165170888283,
+		3.6924553162602662,
+		5.6080185001948095
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 4,
+	"CayleyPoint" : 
+	[
+		3.6903463385342503,
+		3.2924553162602663,
+		5.6080185001948095
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 6,
+	"CayleyPoint" : 
+	[
+		3.2903463385342504,
+		3.2924553162602663,
+		5.6080185001948095
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 7,
+	"CayleyPoint" : 
+	[
+		2.8903463385342505,
+		3.2924553162602663,
+		5.6080185001948095
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 7,
+	"CayleyPoint" : 
+	[
+		2.8800000000000003,
+		3.2924553162602663,
+		5.6080185001948095
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 4,
+	"CayleyPoint" : 
+	[
+		3.2745082659353444,
+		2.8924553162602664,
+		5.6080185001948095
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		2.8800000000000003,
+		2.8924553162602664,
+		5.6080185001948095
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 4,
+	"CayleyPoint" : 
+	[
+		3.2612964479404454,
+		2.8800000000000003,
+		5.6080185001948095
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		2.8800000000000003,
+		2.8800000000000003,
+		5.6080185001948095
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 0,
+	"CayleyPoint" : 
+	[
+		3.2612964479404454,
+		4.2620135697021233,
+		5.7676149492803352
+	],
+	"Collision" : 0,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : false,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 0,
+	"CayleyPoint" : 
+	[
+		2.8800000000000003,
+		4.2620135697021233,
+		5.7676149492803352
+	],
+	"Collision" : 0,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : false,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 0,
+	"CayleyPoint" : 
+	[
+		4.2634194938251415,
+		3.8620135697021234,
+		5.7676149492803352
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		3.8634194938251416,
+		3.8620135697021234,
+		5.7676149492803352
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		3.4634194938251417,
+		3.8620135697021234,
+		5.7676149492803352
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		3.3693834724528529,
+		3.8620135697021234,
+		5.7676149492803352
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 4,
+	"CayleyPoint" : 
+	[
+		3.8628071631387848,
+		3.4620135697021235,
+		5.7676149492803352
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		3.4628071631387849,
+		3.4620135697021235,
+		5.7676149492803352
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		3.062807163138785,
+		3.4620135697021235,
+		5.7676149492803352
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		2.9790640202520855,
+		3.4620135697021235,
+		5.7676149492803352
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		3.4526059484105946,
+		3.0620135697021236,
+		5.7676149492803352
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 6,
+	"CayleyPoint" : 
+	[
+		3.0526059484105947,
+		3.0620135697021236,
+		5.7676149492803352
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		2.8800000000000003,
+		3.0620135697021236,
+		5.7676149492803352
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		3.2612964479404454,
+		2.8800000000000003,
+		5.7676149492803352
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 6,
+	"CayleyPoint" : 
+	[
+		2.8800000000000003,
+		2.8800000000000003,
+		5.7676149492803352
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		3.2612964479404454,
+		4.7387996492523126,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 6,
+	"CayleyPoint" : 
+	[
+		2.8800000000000003,
+		4.7387996492523126,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 0,
+	"CayleyPoint" : 
+	[
+		4.6618252881957849,
+		5.1387996492523129,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		5.0618252881957853,
+		5.1387996492523129,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		5.4618252881957856,
+		5.1387996492523129,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		5.5034073878673349,
+		5.1387996492523129,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 0,
+	"CayleyPoint" : 
+	[
+		4.7613971491894649,
+		5.2351370174833169,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		5.1613971491894652,
+		5.2351370174833169,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		5.5613971491894656,
+		5.2351370174833169,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		5.5950937875226385,
+		5.2351370174833169,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 0,
+	"CayleyPoint" : 
+	[
+		4.6497589044738294,
+		4.3387996492523122,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		4.7323241032460102,
+		4.3387996492523122,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		4.2497589044738291,
+		4.3387996492523122,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 0,
+	"CayleyPoint" : 
+	[
+		3.8497589044738292,
+		4.3387996492523122,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 0,
+	"CayleyPoint" : 
+	[
+		3.8453508112546362,
+		4.3387996492523122,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		4.3394984589732966,
+		3.9387996492523123,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		3.9394984589732966,
+		3.9387996492523123,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 6,
+	"CayleyPoint" : 
+	[
+		3.5394984589732967,
+		3.9387996492523123,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 4,
+	"CayleyPoint" : 
+	[
+		3.4453597272978094,
+		3.9387996492523123,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		3.9403358473765668,
+		3.5387996492523124,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		3.5403358473765669,
+		3.5387996492523124,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 6,
+	"CayleyPoint" : 
+	[
+		3.140335847376567,
+		3.5387996492523124,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 4,
+	"CayleyPoint" : 
+	[
+		3.0531779428867818,
+		3.5387996492523124,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		3.5323132461878752,
+		3.1387996492523125,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 6,
+	"CayleyPoint" : 
+	[
+		3.1323132461878753,
+		3.1387996492523125,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 6,
+	"CayleyPoint" : 
+	[
+		2.8800000000000003,
+		3.1387996492523125,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 8,
+	"CayleyPoint" : 
+	[
+		3.2612964479404454,
+		2.8800000000000003,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+},
+{
+	"BadAngle" : 6,
+	"CayleyPoint" : 
+	[
+		2.8800000000000003,
+		2.8800000000000003,
+		4.9431384561670928
+	],
+	"Collision" : 8,
+	"NodeID" : 669,
+	"Orientations" : [],
+	"Realizable" : true,
+	"Witness" : false,
+	"Z-index" : 32544
+}
+]

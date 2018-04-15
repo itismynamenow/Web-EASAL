@@ -1,0 +1,58 @@
+{
+	"metadata": {
+		"version": 4.5,
+		"type": "Object",
+		"generator": "Object3D.toJSON"
+	},
+	"geometries": [
+		{
+			"uuid": "FF2C118E-BD92-4D60-BBA8-7BBCF0DE066F",
+			"type": "BufferGeometry",
+			"data": {
+				"attributes": {
+					"position": {
+						"itemSize": 3,
+						"type": "Float32Array",
+						"array": [-0.5,0.5,0,-0.5,-0.5,0,0.5,0.5,0,-0.5,-0.5,0,0.5,-0.5,0,0.5,0.5,0],
+						"normalized": false
+					},
+					"normal": {
+						"itemSize": 3,
+						"type": "Float32Array",
+						"array": [0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1],
+						"normalized": false
+					},
+					"uv": {
+						"itemSize": 2,
+						"type": "Float32Array",
+						"array": [0,1,0,0,1,1,0,0,1,0,1,1],
+						"normalized": false
+					}
+				},
+				"boundingSphere": {
+					"center": [0,0,0],
+					"radius": 0.707107
+				}
+			}
+		}],
+	"materials": [
+		{
+			"uuid": "DFEFA9D7-13D6-4DB7-AC7F-6B9F4BFD1369",
+			"type": "MeshPhongMaterial",
+			"color": 16777215,
+			"emissive": 0,
+			"specular": 1118481,
+			"shininess": 30,
+			"depthFunc": 3,
+			"depthTest": true,
+			"depthWrite": true
+		}],
+	"object": {
+		"uuid": "90CBEBA6-CCC9-43A1-A4E1-B9820F747CB8",
+		"type": "Mesh",
+		"name": "Plane 1",
+		"matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],
+		"geometry": "FF2C118E-BD92-4D60-BBA8-7BBCF0DE066F",
+		"material": "DFEFA9D7-13D6-4DB7-AC7F-6B9F4BFD1369"
+	}
+}
