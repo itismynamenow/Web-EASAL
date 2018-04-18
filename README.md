@@ -10,4 +10,4 @@ This is a copy of code for my project which moved [EASAL](https://bitbucket.org/
 
 ## Link
 
-* ufo-host.cise.ufl.edu
+* http://ufo-host.cise.ufl.edu
