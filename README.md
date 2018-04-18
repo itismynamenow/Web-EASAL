@@ -10,4 +10,4 @@ This is a copy of code for my project which moved [EASAL](https://bitbucket.org/
 
 ## Link
 
-* http://ufo-host.cise.ufl.edu (needs latest chrome or Firefox that support WebGL 2.0)
+* http://ufo-host.cise.ufl.edu (needs latest Chrome or Firefox that supports WebGL 2.0)
