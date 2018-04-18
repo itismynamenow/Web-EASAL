@@ -5,9 +5,9 @@ This is a copy of code for my project which moved [EASAL](https://bitbucket.org/
 ## Features
 
 * Usage of existing C++ with very little modifications (because all data goes through Mongo DB)
-* Usage of custom 3D render made with OpenGL 2.0
+* Usage of custom 3D render made with WebGL 2.0
 * Replication of huge portion of desktop EASAL features
 
 ## Link
 
-* http://ufo-host.cise.ufl.edu
+* http://ufo-host.cise.ufl.edu (needs latest chrome or Firefox that support WebGL 2.0)
