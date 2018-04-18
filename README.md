@@ -4,7 +4,7 @@ This is a copy of code for my project which moved [EASAL](https://bitbucket.org/
 
 ## Features
 
-* Usage of existing C++ with very little modifications (because all data goes through Mongo DB)
+* Usage of existing C++ EASAL backend with very little modifications (because all data goes through Mongo DB)
 * Usage of custom 3D render made with WebGL 2.0
 * Replication of huge portion of desktop EASAL features
 
